@@ -1,0 +1,1 @@
+document.write("Hi, Welcome to Javasript");
